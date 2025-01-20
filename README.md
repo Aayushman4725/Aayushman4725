@@ -1,4 +1,4 @@
-![MasterHead](http://i.imgur.com/c7GmAJf.png)
+![MasterHead](https://github.com/Aayushman4725/Aayushman4725/blob/256d44931a01b472d5450265a06c5a0f8c8bf724/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Aayushman Amatya</h1>
 <h3 align="center">A passionate software enthusiast</h3>
