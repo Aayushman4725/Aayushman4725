@@ -1,4 +1,4 @@
-![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fengineering.giphy.com%2Fwp-content%2Fuploads%2F2017%2F06%2Fapi.gif&f=1&nofb=1&ipt=d2febe30aaaa6bc4f660a43e36b39827e6b439544fd7d70fdb6132416495d8d4&ipo=images)
+![MasterHead](http://i.imgur.com/c7GmAJf.png)
 
 <h1 align="center">Hi 👋, I'm Aayushman Amatya</h1>
 <h3 align="center">A passionate software enthusiast</h3>
