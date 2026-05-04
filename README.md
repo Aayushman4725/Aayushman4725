@@ -33,14 +33,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushman4725&" alt="aayushman4725" /></p>
 - API-driven backend services
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Termin$
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aayushman4725&theme=dracula&hide_border=false&include_all_commit$
-![](https://streak-stats.demolab.com/?user=Aayushman4725&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aayushman4725&theme=dracula&hide_border=false&include$
-
-
 ---
 
 ## GitHub Stats
